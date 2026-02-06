@@ -35,7 +35,7 @@ Understanding the directory structure is key to understanding the project.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/dagiteferi/chimera-os.git
+    git clone https://github.com/Nehmyabiruk/chimera-os.git
     cd chimera-os
     ```
 
